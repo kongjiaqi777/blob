@@ -37,6 +37,17 @@ class KongController extends Controller
 
     public function name1()
     {
-        
+
     }
+
+    public function name2()
+    {
+
+    }
+
+    public function name3()
+    {
+
+    }
+
 }
