@@ -50,4 +50,14 @@ class KongController extends Controller
 
     }
 
+    public function name4()
+    {
+
+    }
+
+    public function name5()
+    {
+
+    }
+
 }
